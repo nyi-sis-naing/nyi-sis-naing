@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**nyi-sis-naing/nyi-sis-naing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About Me
 
 💻 Passionate about full-stack development
@@ -12,6 +8,10 @@
 🔥 Love solving problems using Java, React, Python
 
 🌱 Currently learning: Spring Boot, DevOps tools, MLHere are some ideas to get you started:
+<!--
+**nyi-sis-naing/nyi-sis-naing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
